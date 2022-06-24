@@ -1,0 +1,19 @@
+
+/* css bootstrap  */
+@import '../css/bootstrap.min.css';
+
+
+/* css configurações globais  */
+@import '../css/global.css';
+
+/* css do header  */
+@import '../css/header.css';
+
+/* css do main  */
+@import '../css/main.css';
+
+/* css da section sobre  */
+@import '../css/sobre.css';
+
+/* css do responsivo  */
+@import '../css/responsive.css';

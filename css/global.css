@@ -1,0 +1,33 @@
+/* todas as css's globais variáveis de cores e tudo mais  */
+
+body{
+  margin: 0px;
+
+}
+
+h1,h2,h3,p{
+  margin:  0px;
+}
+
+ul{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+
+img{
+  max-width: 100%;
+  display: block;
+}
+
+
+/* cores variaveis  */
+:root{
+  --tipografia-primaria:'Poppins', sans-serif;
+  --tipografia-secundaria:'Permanent Marker', cursive;
+  --cor-1: #FFFFFF;
+  --cor-2: #FFB800;
+  --cor-3: #020202;
+  --cor-4: #252525;
+}

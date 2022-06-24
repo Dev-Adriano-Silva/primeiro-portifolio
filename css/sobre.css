@@ -1,0 +1,63 @@
+.sobre{
+  display: flex;
+  align-items: center;
+  background: var(--cor-4);
+  padding: 100px 220px;
+}
+
+.sobre-container-principal{
+  padding-left: 40px;
+}
+
+
+.sobre-container h2{
+  font-family: var(--tipografia-primaria);
+  color: var(--cor-1);
+  font-size: 1.5rem;
+}
+
+.sobre-container h1{
+  font-family: var(--tipografia-secundaria);
+  color: var(--cor-2);
+  font-size: 2.25rem;
+}
+.sobre-container p{
+  font-family: var(--tipografia-primaria);
+  font-size: 1rem;
+  color: var(--cor-1);
+  text-align: justify;
+  margin-top: 10px;
+}
+
+
+.sobre-skills h2{
+  font-family: var(--tipografia-primaria);
+  color: var(--cor-1);
+  font-size: 1.5rem;
+  padding: 20px 0px 20px 0;
+  
+}
+
+.skills{
+  background: var(--cor-3);
+  padding: 20px ;
+  border-radius: 20px;
+}
+.skills li{
+  font-family: var(--tipografia-primaria);
+  font-size: 1rem;
+}
+
+.sobre-skills ul{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+  font-size: 1rem;
+  color: var(--cor-1);
+ 
+  
+}
+
+
+
+
