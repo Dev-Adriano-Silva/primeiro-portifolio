@@ -15,5 +15,14 @@
 /* css da section sobre  */
 @import '../css/sobre.css';
 
+/* css da section portifolio  */
+@import '../css/portifolio.css';
+
+/* css da section contato  */
+@import '../css/contato.css';
+
+/* css da section Footer  */
+@import '../css/footer.css';
+
 /* css do responsivo  */
 @import '../css/responsive.css';

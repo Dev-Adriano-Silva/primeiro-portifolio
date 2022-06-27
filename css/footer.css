@@ -1,0 +1,11 @@
+.footer{
+  background: var(--cor-2);
+}
+.footer-texto h1{
+  font-family: var(--tipografia-secundaria);
+}
+
+.footer-texto p{
+  font-family: var(--tipografia-primaria);
+  font-size: .75rem;
+}
