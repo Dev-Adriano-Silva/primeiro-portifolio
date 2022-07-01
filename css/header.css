@@ -1,14 +1,13 @@
 
 .header{
   background: var(--cor-3);
+  
 }
 
 .header-menu{
   gap: 52px;
   padding-top: 33px;
   padding-right: 63px;
-  position: relative;
-
 }
 
 .header-menu a{
