@@ -23,9 +23,45 @@
     }
 
     /* main  */
+    .main{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 90px 0 90px 0;
+    }
+    .redes-container{
+        display: none;
+        
+    }
+
+    /*formação*/
+    .sobre{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 40px;
+        text-align: center;
+    }
+    .sobre img{
+        display: none;
+    }
+    .sobre-container-principal{
+        padding-left: 0px;
+    }
     
+    /* portifolio  */
 
+    .container-img{
+        flex-direction: column;
+        padding: 0px 40px 0px 40px;
 
+    }
+    
+    /* contato  */
+    .contato h1{
+        padding: 20px;
+    }
+    .container-contato-img{
+        gap: 20px;
+    }
 }
 
 /* tablet  */
